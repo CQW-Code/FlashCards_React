@@ -12,20 +12,13 @@
   height: 75px;
   padding: 20px;
   color: white;
+  text-align: center;
 }
 
 .App-title {
   font-size: 1.5em;
 }
 
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
 
 
 .display
@@ -36,7 +29,15 @@
 
 
 }
-.test
+.btn
 {
+  width: 200px;
+  height: 50px;
+  margin-bottom: 10px;
+  background-color: rgb(188, 120, 228);
+  color: wheat;
+  font-size: 32px;
+  text-decoration: bold;
+
   
 }
